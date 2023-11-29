@@ -1,4 +1,4 @@
-#SQL Projects Repository
+SQL Projects Repository
 Welcome to my SQL Projects Repository! 👋
 
 Overview
